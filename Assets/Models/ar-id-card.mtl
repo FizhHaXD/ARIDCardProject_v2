@@ -1,0 +1,28 @@
+# Bahan untuk ar-id-card.obj
+# CardFront memakai gambar kartu yang kamu unduh dari perancang.
+# Simpan ar-id-card.png di folder yang sama supaya Unity menautkannya otomatis.
+
+newmtl CardFront
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.060 0.060 0.060
+Ns 12.0
+d 1.0
+illum 2
+map_Kd ar-id-card.png
+
+newmtl CardBack
+Ka 0.043 0.169 0.149
+Kd 0.043 0.169 0.149
+Ks 0.040 0.040 0.040
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl CardEdge
+Ka 0.949 0.718 0.020
+Kd 0.949 0.718 0.020
+Ks 0.120 0.120 0.120
+Ns 20.0
+d 1.0
+illum 2

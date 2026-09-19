@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="IDCardTarget" size="0.085600 0.054000" />
+  </Tracking>
+</QCARConfig>

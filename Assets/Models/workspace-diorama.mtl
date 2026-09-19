@@ -1,0 +1,123 @@
+# Bahan untuk workspace-diorama.obj
+
+newmtl FloorWood
+Ka 0.247 0.189 0.124
+Kd 0.706 0.541 0.353
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl WallPaint
+Ka 0.025 0.079 0.070
+Kd 0.071 0.227 0.200
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl Trim
+Ka 0.325 0.317 0.296
+Kd 0.929 0.906 0.847
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl DeskSurface
+Ka 0.301 0.273 0.226
+Kd 0.859 0.780 0.647
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl MetalDark
+Ka 0.051 0.073 0.067
+Kd 0.145 0.208 0.192
+Ks 0.350 0.350 0.350
+Ns 26.0
+d 1.0
+illum 2
+
+newmtl ScreenGlow
+Ka 0.277 0.314 0.301
+Kd 0.792 0.898 0.859
+Ks 0.350 0.350 0.350
+Ns 26.0
+d 1.0
+illum 2
+Ke 0.436 0.494 0.472
+
+newmtl AccentAmber
+Ka 0.332 0.251 0.007
+Kd 0.949 0.718 0.020
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl AccentRust
+Ka 0.269 0.115 0.079
+Kd 0.769 0.329 0.227
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl Foliage
+Ka 0.131 0.194 0.173
+Kd 0.373 0.553 0.494
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl StemGreen
+Ka 0.100 0.149 0.132
+Kd 0.286 0.427 0.376
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl SoilDark
+Ka 0.081 0.064 0.052
+Kd 0.231 0.184 0.149
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl RugCloth
+Ka 0.269 0.115 0.079
+Kd 0.769 0.329 0.227
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl RugTrim
+Ka 0.325 0.317 0.296
+Kd 0.929 0.906 0.847
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl PlasticBone
+Ka 0.325 0.317 0.296
+Kd 0.929 0.906 0.847
+Ks 0.080 0.080 0.080
+Ns 8.0
+d 1.0
+illum 2
+
+newmtl SkyGlass
+Ka 0.254 0.299 0.303
+Kd 0.725 0.855 0.867
+Ks 0.350 0.350 0.350
+Ns 26.0
+d 1.0
+illum 2
+Ke 0.399 0.470 0.477
